@@ -26,7 +26,7 @@ The output needs to be written to a file “output.json”.
 <!--Ordered List-->
 1. Clone the repository:
 
-     git clone "git repository link" (in this case, git clone  https://github.com/Ruchitha-Dara/Shared)
+     git clone "git repository link" (in this case, git clone )
 
 2. Install dependencies:
    
