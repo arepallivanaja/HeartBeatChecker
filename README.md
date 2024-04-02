@@ -19,7 +19,6 @@ measurement in the day) for each day. Output should look like this
  },
  …..
  ]
-
 The output needs to be written to a file “output.json”.
 
 ## **Instructions on Build and Run the Project:**
