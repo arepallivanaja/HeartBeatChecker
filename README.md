@@ -8,8 +8,7 @@ For a clinical trial, it is required to calculate some statistics for patients' 
 ## Problem Statement:
 Calculate the minimum, maximum and median beats per minute and the latest data timestamp (timestamp of the last
 measurement in the day) for each day. Output should look like this
-
- [
+[
  {
  "date": "2023-04-28”,
  "min": 60,
